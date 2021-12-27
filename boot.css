@@ -1,0 +1,75 @@
+.head3
+{
+    top:150px;
+    position:absolute;
+    color:rgb(30, 179, 206);
+    
+}
+.head2
+{
+    top:150px;
+    position:absolute;
+    color:rgb(30, 179, 206);
+    
+}
+.head1
+{
+    top:150px;
+    position:absolute;
+    color:rgb(230, 15, 165);
+    
+}
+
+.text3
+{
+    top:200px;
+    position:absolute;
+    color:rgb(30, 179, 206);
+font-size:20px
+
+}
+.text-primary
+{
+    font-size: 25px;
+}
+.text-secondary
+{
+    font-size:25px;
+}
+.news h2
+{   
+    padding-top:50px;
+    text-align: center;
+    
+
+}
+.news pre{
+    font-size: 25px;
+    color:rgb(83, 78, 78);
+    text-align: center;
+    padding-top:50px;
+}
+.email
+{
+    width:25%;
+    height:25%;
+justify-content: center;
+
+}
+.font
+{
+    text-align: center;
+    font-size: 30px;
+}
+.phone
+{
+font-size:30px;
+text-align: center;
+}
+body
+{
+    overflow: scroll;
+}
+nav{
+    overflow: scroll;
+}
